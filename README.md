@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Taura Soluções](https://github.com/Taura-Solucoes)
 
-- 🌱 I’m currently learning **PHP, Web (HTML5, CSS3 andJS w/ Node.JS) and Git Flow**
+- 🌱 I’m currently learning **PHP, Web (HTML5, CSS3 andJS w/ Node.JS), Swagger and Git Flow**
 
 - 👨‍💻 All of my college projects are available at [github.com/lauraperera](github.com/lauraperera)
 
